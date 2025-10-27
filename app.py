@@ -31,4 +31,4 @@ if st.button("Translate"):
         st.write("Click the code box above to copy the translation.")
 
 st.markdown("---")
-st.caption("Built by Bhanu Kumar Dev | Powered by Streamlit & Deep Translator")
+st.caption("Built by Dev Mahato & Tanuj Mali | Powered by Streamlit & Deep Translator")
